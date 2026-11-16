@@ -1,0 +1,6 @@
+{
+  "name": "The Present Shine",
+  "description": "Tienda virtual de moda urbana nueva y de segunda mano para jóvenes en Ilo y Arequipa, Perú. Tu estilo, tu esencia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
